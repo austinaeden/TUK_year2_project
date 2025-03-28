@@ -1,0 +1,456 @@
+{ 
+    "items": [
+    {
+      "id": 1,
+      "company": "adidas",
+      "name": "Mr. Cute",
+      "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/9453071/1.jpg?4796",
+      "stars": 5,
+      "price": 75,
+      "description": "Shirts"
+    },
+    {
+      "id": 2,
+      "company": "Ashion",
+      "name": "Jacket",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/78/4622362/1.jpg?0257",
+      "stars": 5,
+      "price": 1150,
+      "description": "Men's Varsity Jacket - Stylish, Comfortable, Durable With Free Necklace"
+    },
+    {
+      "id": 3,
+      "company": "Maa_fashion",
+      "name": "BELT",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/4517672/1.jpg?7984",
+      "stars": 4,
+      "price": 499,
+      "description": "Fashion MENS BELT 2 SIDED COW LEATHER"
+    },
+    {
+      "id": 4,
+      "company": "Den_Fashion",
+      "name": "Trouser",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/31/1898771/1.jpg?0505",
+      "stars": 3.5,
+      "price": 1699,
+      "description": "Fashion Denim Jeans For Men -Grey"
+    },
+    {
+      "id": 5,
+      "company": "Catpapa",
+      "name": "Shoulder Bubble + Skirt.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/3886462/1.jpg?4090",
+      "stars": 4,
+      "price": 1072,
+      "description": "Catpapa 2PCS 0-4 Years Kid Girl Off Shoulder Bubble Sleeve Top With Corduroy Skirt"
+    },
+    {
+      "id": 6,
+      "company": "NS Fashion",
+      "name": "T-Shirt + Short.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/61/3592761/1.jpg?1009",
+      "stars": 4,
+      "price": 1250 ,
+      "description": "Fashion 2pcs Men's Short-sleeved T-shirt + Shorts Set - Black"
+    },
+    {
+      "id": 7,
+      "company": "AR",
+      "name": "Tracksuit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/25/1851611/1.jpg?3525",
+      "stars": 4.5,
+      "price": 1800,
+      "description": "Men's Tracksuit Sportswear Two Piece Set - Dark Blue"
+    },
+    {
+      "id": 8,
+      "company": "FashionKe",
+      "name": "Trouser",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/30/559218/1.jpg?3307",
+      "stars": 4,
+      "price": 1600 ,
+      "description": "Fashion Rugged Blue Jeans For Men"
+    },
+   
+    {
+      "id": 9,
+      "company": "Defacto",
+      "name": "Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/5185251/1.jpg?6088",
+      "stars": 5,
+      "price": 524,
+      "description": "Defacto Boy Casual Regular Fit Woven Short - Green"
+    },
+    {
+      "id": 10,
+      "company": "Enchantment",
+      "name": " Overcoat + Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/60/8671032/1.jpg?4146",
+      "stars": 4,
+      "price": 1250,
+      "description": "Baby Girl 2PCS Solid Color Overcoat With Floral Sleeveless Dress"
+    },
+    {
+      "id": 11,
+      "company": "Fashionista",
+      "name": "Collar_Tops + Shorts.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/91/6637591/1.jpg?8205",
+      "stars": 3.5,
+      "price": 1300,
+      "description": "Fashion 1-6Years Kids Baby Boy 2PCS Turn-Down Collor Top Shorts"
+    },
+    {
+      "id": 12,
+      "company": "Fashion-sport",
+      "name": "T-Shirt + Short.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/18/110027/1.jpg?0592",
+      "stars": 5,
+      "price": 1190,
+      "description": "Fashion Men's Sportswear Set T-Shirt+Shorts"
+    },
+    {
+      "id": 13,
+      "company": "Defacto",
+      "name": "Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/8323551/1.jpg?1203",
+      "stars": 5,
+      "price": 384,
+      "description": "Girl Casual Knitted Short - Blue"
+    },
+    {
+      "id": 14,
+      "company": "Catpapa",
+      "name": "Bodysuit + Headband.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/66/429936/1.jpg?5445",
+      "stars": 3.5,
+      "price": 960,
+      "description": "Baby Girls Outfit Set Letter Short Sleeves Bodysuit Polka Dot Shorts Headband"
+    },
+    {
+      "id": 15,
+      "company": "Catpapa",
+      "name": "Tshirt + Short-Mint Boss",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/82/3886462/1.jpg?4089",
+      "stars": 5,
+      "price": 1165,
+      "description": "Catpapa 1-3 Years Kid Boy Clothes Set Short Sleeves Tshirt + Shorts 2PCS"
+    },
+    {
+      "id": 16,
+      "company": "Defacto",
+      "name": "Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/30/6185251/1.jpg?6151",
+      "stars": 5,
+      "price": 446,
+      "description": "Casual Regular Fit Knitted Short - Black"
+    },
+    {
+      "id": 17,
+      "company": "Fashonista",
+      "name": "Baby-Bodysuit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/68/696544/1.jpg?1568",
+      "stars": 4.5,
+      "price": 1495,
+      "description": "Cutest Baby Newborn Cotton Long-sleeve Baby Boy Onesies/Bodysuit/sleepsuit"
+    },
+    {
+      "id": 18,
+      "company": "Fashonista",
+      "name": "Cap",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/53/4304171/1.jpg?8112",
+      "stars": 3,
+      "price": 599,
+      "description": "Adjustable Baseball Cap - Multicolour"
+    },
+    {
+      "id": 19,
+      "company": "Fashka",
+      "name": "Birthday Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/68/9565332/1.jpg?1964",
+      "stars": 4,
+      "price": 2400,
+      "description": "Fashion birthday dress for your girl child"
+    },
+    {
+      "id": 20,
+      "company": "Defacto",
+      "name": "Vest",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/41/6185251/1.jpg?6094",
+      "stars": 4.5,
+      "price": 524,
+      "description": "BabyBoy Casual Regular Fit Sleeveless Knitted Vest - Beige"
+    },
+    {
+      "id": 21,
+      "company": "Catpapa",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/22/4937762/1.jpg?7208",
+      "stars": 3,
+      "price": 1400 ,
+      "description": "Sleeveless Solid And Floral Dress"
+    },
+    {
+      "id": 22,
+      "company": "Breakpoint",
+      "name": "Shorts",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/9325061/1.jpg?0245",
+      "stars": 4.5,
+      "price": 1000,
+      "description": "Men's Sports Shorts For Training/Fitness/Running"
+    },
+    {
+      "id": 23,
+      "company": "Defacto",
+      "name": "T-Shirt",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/6185251/1.jpg?6097",
+      "stars": 5,
+      "price": 480,
+      "description": "Casual Regular Fit Crew Neck Knitted Short Sleeve T-Shirt"
+    },
+    {
+      "id": 24,
+      "company": "Fashonista",
+      "name": "Body-suit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/4932291/1.jpg?4057",
+      "stars": 5,
+      "price": 1424,
+      "description": "0-9 Months Baby Boy 4PCS Set Bear Print Short Sleeve Bodysuit Shorts Hat Sock"
+    },
+    {
+      "id": 25,
+      "company": "DreamFashion",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/87/735469/1.jpg?8976",
+      "stars": 4,
+      "price": 2500,
+      "description": "Double Layer Flower Girl Dresses"
+    },
+    {
+      "id": 26,
+      "company": "Fashionista",
+      "name": "Jacket",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/20/2030972/1.jpg?1487",
+      "stars": 4,
+      "price": 1450,
+      "description": "Fashion Mens Trench Coats Casual Blazers Windbreak Bomber Lightweight Trendy Jackets-Green"
+    },
+    {
+      "id": 27,
+      "company": "Defacto",
+      "name": "T-Shirt",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/68/5185251/1.jpg?6088",
+      "stars": 5,
+      "price": 464,
+      "description": "Defacto Boy Casual Regular Fit V Neck Knitted Short Sleeve T-Shirt - Blue"
+    },
+    {
+      "id": 28,
+      "company": "Upscale",
+      "name": "Jacket",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/87/705617/1.jpg?8681",
+      "stars": 4.5,
+      "price": 1709,
+      "description": "Fashion Women's Drop Shoulder Flap Pocket Patched Button Up Denim Jacket, Blue"
+    },
+    {
+      "id": 29,
+      "company": "Fashionista",
+      "name": "Jumpsuit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/49/1486051/1.jpg?0767",
+      "stars": 4,
+      "price": 950,
+      "description": "Fashion Women Solid Color Off Shoulder Club Party Jumpsuit 2pcs Spring And Fall"
+    },
+    {
+      "id": 30,
+      "company": "Fashka",
+      "name": "Suit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/13/7603341/1.jpg?1061",
+      "stars": 4,
+      "price": 2580,
+      "description": "Fashion Boys African Suit"
+    },
+    {
+      "id": 31,
+      "company": "Ace-Fashion",
+      "name": "T-shirt + Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/4387091/1.jpg?3737",
+      "stars": 3.5,
+      "price": 635,
+      "description": "Fashion Men's 2-in-1 Short Sleeved T-shirt And Shorts Set - Black"
+    },
+    {
+      "id": 32,
+      "company": "Modernwave",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/01/291965/1.jpg?4293",
+      "stars": 3,
+      "price": 910,
+      "description": "Fashion Female Office Long Gowns Dresses Party Ladies Corporate"
+    },
+    {
+      "id": 33,
+      "company": "Catpapa",
+      "name": "Romper",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/43/4937762/1.jpg?4529",
+      "stars": 4,
+      "price": 900,
+      "description": "Catpapa 0-18 Months Baby Girl Summer Sleeveless Ribbed Romper"
+    },
+    {
+      "id": 34,
+      "company": "Fashista",
+      "name": "T-Shirt",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/05/7084772/1.jpg?0004",
+      "stars": 4,
+      "price": 1200,
+      "description": "Fashion Ladies Shirt Casual Long Sleeve Polo T-Shirt Female Clothes"
+    },
+    {
+      "id": 35,
+      "company": "Fashionista",
+      "name": "Suit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/71/2060981/1.jpg?2662",
+      "stars": 5,
+      "price": 2600,
+      "description": "Fashion Boys 2-piece Suit. Waist Coat And A Matching Trouser"
+    },
+    {
+      "id": 36,
+      "company": "Modernwave",
+      "name": "Baby-suit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/20/8035942/1.jpg?8765",
+      "stars": 3,
+      "price": 499,
+      "description": "5 Pieces Unisex New Born Baby Receiving Set"
+      
+    },
+    {
+      "id": 37,
+      "company": "Catpapa",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/60/6668762/1.jpg?6131",
+      "stars": 3,
+      "price": 900,
+      "description": "Catpapa 3-24Months Baby Girl Red Polka Dots Mesh Dress With Headband Cute Dress"
+    },
+    {
+      "id": 38,
+      "company": "Camiwind",
+      "name": "T-Shirt",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/6368762/1.jpg?1114",
+      "stars": 4,
+      "price": 429,
+      "description": "camiwind Boy's Fashion Tops Earphone Printing T Shirts-Yellow"
+    },
+    {
+      "id": 39,
+      "company": "Camiwind",
+      "name": "Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/82/7368762/1.jpg?3460",
+      "stars": 4,
+      "price": 595,
+      "description": "camiwind 2-in-1 Boy's Casual Letters Board Shorts"
+    },
+    {
+      "id": 40,
+      "company": "Fashka",
+      "name": "Track-suit",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/70/7150382/1.jpg?9782",
+      "stars": 5,
+      "price": 2200,
+      "description": "Fashion 3-Piece Kids Spiderman Tracksuit, Royal Blue, Red & Black"
+    },
+    {
+      "id": 41,
+      "company": "Catpapa",
+      "name": "T-Shirt + Short",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/6668762/1.jpg?6131",
+      "stars": 4,
+      "price": 897,
+      "description": "Catpapa 3-24 Months Baby Girl Butterfly Print T-shirt With Shorts Fashion Daily Wear"
+    },
+    {
+      "id": 42,
+      "company": "Catpapa",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/4937762/1.jpg?8223",
+      "stars": 4,
+      "price": 1000,
+      "description": "Catpapa 1-3 Years Baby Girl Elastic Flutter Sleeve Sleeveless Floral Princess Dress"
+    },
+    {
+      "id": 43,
+      "company": "Fashonista",
+      "name": "Jacket",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/8383971/1.jpg?8527",
+      "stars": 4.5,
+      "price": 2700,
+      "description": "Fashion Men's Unique Fleece Varsity Jacket"
+    },
+    {
+      "id": 44,
+      "company": "Berrykey",
+      "name": "Jacket",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/076045/1.jpg?1866",
+      "stars": 4,
+      "price": 1150,
+      "description": "Berrykey Mens Zipper Turtleneck Long Sleeve Varsity Jackets Lightweight Sport Coats - Blue"
+    },
+    {
+      "id": 45,
+      "company": "Berrykey",
+      "name": "Sport Coat",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/40/076045/1.jpg?5535",
+      "stars": 4,
+      "price": 1180,
+      "description": "Berrykey Men's Trendy Zipper Turtleneck Varsity Jackets Slim Sport Coats - White"
+    },
+    {
+      "id": 46,
+      "company": "Dreamtrend",
+      "name": "Robe",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/9443511/1.jpg?3857",
+      "stars": 4.5,
+      "price": 1930,
+      "description": "Fleece Bathrobe Long Shawl Collar Plush Robe- Unisex"
+    },
+    {
+      "id": 47,
+      "company": "Fashka",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/43/0514562/1.jpg?9849",
+      "stars": 4,
+      "price": 595,
+      "description": "Fashion Grey Ladies Ruched Bodycon Dress + FREE GIFT"
+    },
+    {
+      "id": 48,
+      "company": "Versatile",
+      "name": "Dress",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/53/788385/1.jpg?8936",
+      "stars": 4,
+      "price": 2500,
+      "description": "Fashion Wedding Birthday Baptism Princess Baby Dress"
+    },
+    {
+      "id": 49,
+      "company": "Nike",
+      "name": "Socks",
+      "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/23/2174262/1.jpg?6272",
+      "stars": 5,
+      "price": 479,
+      "description": "Fashion Mens Cotton Socks Sports Socks -5 Pairs"
+    },
+    {
+      "id": 50,
+      "company": "Versatile",
+      "name": "Towels",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/96/4394951/1.jpg?8093",
+      "stars": 4,
+      "price": 1999,
+      "description": "3 pieces grey cotton towels set"
+    }
+  ]
+ }
